@@ -1,14 +1,14 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 import css from './Searchbar.module.css';
 import { IoIosSearch } from 'react-icons/io';
 
 const Searchbar = () => {
-  const [value, setValue] = useState('');
+  // const [value, setValue] = useState('');
 
   const handleSubmit = e => {};
 
   const handleChange = e => {
-    setValue(e.target.value);
+    // setValue(e.target.value);
   };
 
   return (
