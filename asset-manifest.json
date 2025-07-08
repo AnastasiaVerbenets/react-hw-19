@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hw-8/static/css/main.eacb4e4d.css",
+    "main.js": "/react-hw-8/static/js/main.9c73f015.js",
+    "index.html": "/react-hw-8/index.html",
+    "main.eacb4e4d.css.map": "/react-hw-8/static/css/main.eacb4e4d.css.map",
+    "main.9c73f015.js.map": "/react-hw-8/static/js/main.9c73f015.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eacb4e4d.css",
+    "static/js/main.9c73f015.js"
+  ]
+}
