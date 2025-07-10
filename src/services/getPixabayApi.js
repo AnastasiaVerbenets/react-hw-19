@@ -6,9 +6,10 @@ export const fetchImgs = (search, page) => {
         (r) => {
             if (r.ok) {
                 return r.json();
-            } else {
-                return Promise.reject(new Error());
             }
+
+            return Promise.reject(new Error());
+
         }
     )
 }
